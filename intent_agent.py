@@ -1,25 +1,32 @@
 from config import client, model_id
 
 def classify_intent(query):
+    query = query.lower().strip()
 
-    q = query.lower()
+    # Greeting handling
+    greetings = ["hi", "hello", "hey", "hii", "helo", "good morning", "good evening"]
+
+    if query in greetings:
+        return "greeting"
 
     # Fast keyword matching
-    if any(word in q for word in ["hod", "department", "principal", "library", "hostel",
-                                  "placement", "cse", "computer", "civil",
-                                  "electrical", "mechanical", "academic"]):
+    if any(word in query for word in [
+        "hod", "department", "principal", "library", "hostel",
+        "placement", "cse", "computer", "civil",
+        "electrical", "mechanical", "academic"
+    ]):
         return "department"
 
-    elif "admission" in q:
+    elif "admission" in query:
         return "admission"
 
-    elif any(word in q for word in ["exam", "examination"]):
+    elif any(word in query for word in ["exam", "examination"]):
         return "exam"
 
-    elif "fees" in q:
+    elif "fees" in query:
         return "fees"
 
-    elif "scholarship" in q:
+    elif "scholarship" in query:
         return "scholarship"
 
     # Fallback to AI
