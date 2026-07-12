@@ -1,0 +1,116 @@
+{
+  "college_name": "Dumka Engineering College",
+
+  "departments": [
+    {
+      "department": "Admission",
+      "head": "Mr. Rajeev Ranjan",
+      "designation": "Admission In-charge",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00001",
+      "email": "demo.admission@dec.edu.in",
+      "office": "Administrative Block - Room 101",
+      "meeting_time": "09:00 AM - 02:00 PM"
+    },
+    {
+      "department": "Examination",
+      "head": "Mr. Sanjay Sinha",
+      "designation": "Examination Head",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00002",
+      "email": "demo.exam@dec.edu.in",
+      "office": "Academic Block 2 - Room 201",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Academics",
+      "head": "Mr. R.K.B.",
+      "designation": "Academic Head",
+      "qualification": "Demo: Ph.D.",
+      "phone": "Demo: +91-90000-00003",
+      "email": "demo.academic@dec.edu.in",
+      "office": "Academic Block - Room 102",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Principal Office",
+      "head": "Mr. Ashok Sinha",
+      "designation": "Principal",
+      "qualification": "Demo: Ph.D.",
+      "phone": "Demo: +91-90000-00004",
+      "email": "principal@dec.edu.in",
+      "office": "Administrative Block",
+      "meeting_time": "11:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Computer Science",
+      "head": "Mr. Ranadeep Dey",
+      "designation": "HOD",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00005",
+      "email": "cse@dec.edu.in",
+      "office": "CSE Department",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Electrical",
+      "head": "Mr. Ayan Sarkar",
+      "designation": "HOD",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00006",
+      "email": "ee@dec.edu.in",
+      "office": "Electrical Department",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Civil",
+      "head": "Mr. Suvendu Adhikari",
+      "designation": "HOD",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00007",
+      "email": "civil@dec.edu.in",
+      "office": "Civil Department",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    },
+    {
+      "department": "Hostel",
+      "head": "Mr. Amit Kumar Pramanik",
+      "designation": "Hostel In-charge",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00008",
+      "email": "hostel@dec.edu.in",
+      "office": "Hostel Office",
+      "meeting_time": "09:00 AM - 12:00 PM"
+    },
+    {
+      "department": "Library",
+      "head": "Mr. Sumit Kumar Pramanik",
+      "designation": "Library In-charge",
+      "qualification": "Demo: M.Lib",
+      "phone": "Demo: +91-90000-00009",
+      "email": "library@dec.edu.in",
+      "office": "Central Library",
+      "meeting_time": "09:00 AM - 04:00 PM"
+    },
+    {
+      "department": "Placement Cell",
+      "head": "Mr. Raju Hansda",
+      "designation": "Placement Officer",
+      "qualification": "Demo: MBA",
+      "phone": "Demo: +91-90000-00010",
+      "email": "placement@dec.edu.in",
+      "office": "Placement Cell",
+      "meeting_time": "10:00 AM - 02:00 PM"
+    },
+    {
+      "department": "Scholarship",
+      "head": "Mr. Roshan Sinha",
+      "designation": "Scholarship Coordinator",
+      "qualification": "Demo: M.Tech",
+      "phone": "Demo: +91-90000-00011",
+      "email": "scholarship@dec.edu.in",
+      "office": "Student Welfare Office",
+      "meeting_time": "10:00 AM - 01:00 PM"
+    }
+  ]
+}
